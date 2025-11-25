@@ -56,4 +56,4 @@ It serves as a **digital health companion**, accessible anytime, anywhere.
 ## ⚙️ Installation
 1. Clone repo:  
 ```bash
-git clone https://github.com/AniekanVictor/healthcare-awareness-chatbot.git
+git clone https://github.com/AniekanVictor/healthcare-awareness-chatbot.git. 
